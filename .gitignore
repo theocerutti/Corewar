@@ -1,0 +1,53 @@
+##############
+#  NAME BIN  #
+##############
+
+asm/asm
+corewar/corewar
+zork.s
+zork.cor
+corewar_binaries
+asm/champions/
+asm/zork.cor_real
+*.s
+pdd.cor
+*.cor*
+
+###############
+#     MY      #
+
+.idea
+.vscode
+perf.data
+
+###############
+#    FLAGS    #
+
+*.o
+*.~
+*.#
+*.a
+*.gch
+a.out
+.idea
+*.class
+*.dll
+*.exe
+*.cor
+
+############
+# Packages #
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+######################
+# Logs and databases #
+
+*.log
