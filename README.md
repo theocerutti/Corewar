@@ -24,7 +24,7 @@ The Assembler converts the assembly file.s into an file.cor, an executable in th
 
 ## Virtual Machine  
 
-USAGE: 
+USAGE:  
 ```cd corewar ; make re```  
 ```./corewar [-dump nbr_cycle] [[-n prog_number] [-a load_address] prog_name]```  
 
